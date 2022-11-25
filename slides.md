@@ -317,7 +317,7 @@ Analog vs. Digital
 ## Quellen
 
 - https://www.youtube.com/c/joshuabardwell
-- https://oscarliang.com/
+- https://oscarliang.com/how-to-build-fpv-drone/
 - https://www.getfpv.com/learn/new-to-fpv/multirotor-drone-decision-flowchart/
 - https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/
 - https://www.youtube.com/watch?v=8hHNm-dFicc
