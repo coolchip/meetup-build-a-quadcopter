@@ -1820,6 +1820,23 @@ $notesWidthPercent: 25%;
 }
 
 
+// 
+.two-floating-elements {
+	> ul ~ p,
+	> p ~ ul {
+	  max-width: 50%;
+	  float:left;
+	  font-size: 0.7em;
+	  -webkit-box-sizing: border-box;
+	  -moz-box-sizing: border-box;
+	  box-sizing: border-box;
+	}
+	> p ~ ul {
+	  margin-left: 0;
+	}
+  }
+  
+
 /*********************************************
  * PRINT STYLES
  *********************************************/
